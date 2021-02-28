@@ -1,0 +1,30 @@
+﻿git config --global user.name "Your Name"
+git config --global user.email "your_email@whatever.com"
+git config --local --list 
+git config --global --list
+git init 
+git status
+git add <file>
+git commit -m “text”
+git commit -a -m "text" - добавить и закомитить
+git add . - добавить всё
+git checkout <commit> or <branch>
+git checkout -b dev2 - создаст и перейдет на ветку dev2
+git log
+git log -p - отличия в коммитах показывает
+git log -2 - будет выводить только 2 последние коммита
+git branch "name"
+clear
+git push -u origin master
+git push
+git clone ...
+git pull - есть ли изменения на серве
+git merge dev - чтобы с ветки dev смёржить в master
+git branch -d dev - удаляет ветку dev
+
+git checkout -b belyaev_hw2 
+git add .
+got commit -m
+git push -u origin "namebranch"
+
+git branch —track dev origin/dev - создать ветку на локальном репозитории
