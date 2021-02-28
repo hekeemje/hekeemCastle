@@ -1,0 +1,13 @@
+D:\Hillel homework\homework7\one7\one7\bin\Debug\netcoreapp3.1\one7.exe
+D:\Hillel homework\homework7\one7\one7\bin\Debug\netcoreapp3.1\one7.deps.json
+D:\Hillel homework\homework7\one7\one7\bin\Debug\netcoreapp3.1\one7.runtimeconfig.json
+D:\Hillel homework\homework7\one7\one7\bin\Debug\netcoreapp3.1\one7.runtimeconfig.dev.json
+D:\Hillel homework\homework7\one7\one7\bin\Debug\netcoreapp3.1\one7.dll
+D:\Hillel homework\homework7\one7\one7\bin\Debug\netcoreapp3.1\one7.pdb
+D:\Hillel homework\homework7\one7\one7\obj\Debug\netcoreapp3.1\one7.csprojAssemblyReference.cache
+D:\Hillel homework\homework7\one7\one7\obj\Debug\netcoreapp3.1\one7.AssemblyInfoInputs.cache
+D:\Hillel homework\homework7\one7\one7\obj\Debug\netcoreapp3.1\one7.AssemblyInfo.cs
+D:\Hillel homework\homework7\one7\one7\obj\Debug\netcoreapp3.1\one7.csproj.CoreCompileInputs.cache
+D:\Hillel homework\homework7\one7\one7\obj\Debug\netcoreapp3.1\one7.dll
+D:\Hillel homework\homework7\one7\one7\obj\Debug\netcoreapp3.1\one7.pdb
+D:\Hillel homework\homework7\one7\one7\obj\Debug\netcoreapp3.1\one7.genruntimeconfig.cache

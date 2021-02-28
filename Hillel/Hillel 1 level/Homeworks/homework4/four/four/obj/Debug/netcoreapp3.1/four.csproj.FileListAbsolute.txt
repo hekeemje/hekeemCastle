@@ -1,0 +1,13 @@
+D:\Hillel homework\homework4\four\four\bin\Debug\netcoreapp3.1\four.exe
+D:\Hillel homework\homework4\four\four\bin\Debug\netcoreapp3.1\four.deps.json
+D:\Hillel homework\homework4\four\four\bin\Debug\netcoreapp3.1\four.runtimeconfig.json
+D:\Hillel homework\homework4\four\four\bin\Debug\netcoreapp3.1\four.runtimeconfig.dev.json
+D:\Hillel homework\homework4\four\four\bin\Debug\netcoreapp3.1\four.dll
+D:\Hillel homework\homework4\four\four\bin\Debug\netcoreapp3.1\four.pdb
+D:\Hillel homework\homework4\four\four\obj\Debug\netcoreapp3.1\four.csprojAssemblyReference.cache
+D:\Hillel homework\homework4\four\four\obj\Debug\netcoreapp3.1\four.AssemblyInfoInputs.cache
+D:\Hillel homework\homework4\four\four\obj\Debug\netcoreapp3.1\four.AssemblyInfo.cs
+D:\Hillel homework\homework4\four\four\obj\Debug\netcoreapp3.1\four.csproj.CoreCompileInputs.cache
+D:\Hillel homework\homework4\four\four\obj\Debug\netcoreapp3.1\four.dll
+D:\Hillel homework\homework4\four\four\obj\Debug\netcoreapp3.1\four.pdb
+D:\Hillel homework\homework4\four\four\obj\Debug\netcoreapp3.1\four.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Hillel homework\homework3\two\two\bin\Debug\netcoreapp3.1\two.exe
+D:\Hillel homework\homework3\two\two\bin\Debug\netcoreapp3.1\two.deps.json
+D:\Hillel homework\homework3\two\two\bin\Debug\netcoreapp3.1\two.runtimeconfig.json
+D:\Hillel homework\homework3\two\two\bin\Debug\netcoreapp3.1\two.runtimeconfig.dev.json
+D:\Hillel homework\homework3\two\two\bin\Debug\netcoreapp3.1\two.dll
+D:\Hillel homework\homework3\two\two\bin\Debug\netcoreapp3.1\two.pdb
+D:\Hillel homework\homework3\two\two\obj\Debug\netcoreapp3.1\two.csprojAssemblyReference.cache
+D:\Hillel homework\homework3\two\two\obj\Debug\netcoreapp3.1\two.AssemblyInfoInputs.cache
+D:\Hillel homework\homework3\two\two\obj\Debug\netcoreapp3.1\two.AssemblyInfo.cs
+D:\Hillel homework\homework3\two\two\obj\Debug\netcoreapp3.1\two.csproj.CoreCompileInputs.cache
+D:\Hillel homework\homework3\two\two\obj\Debug\netcoreapp3.1\two.dll
+D:\Hillel homework\homework3\two\two\obj\Debug\netcoreapp3.1\two.pdb
+D:\Hillel homework\homework3\two\two\obj\Debug\netcoreapp3.1\two.genruntimeconfig.cache

@@ -1,0 +1,26 @@
+C:\Users\hekeemje\source\repos\01HomeWorkCalc\01HomeWorkCalc\bin\Debug\netcoreapp3.1\01HomeWorkCalc.exe
+C:\Users\hekeemje\source\repos\01HomeWorkCalc\01HomeWorkCalc\bin\Debug\netcoreapp3.1\01HomeWorkCalc.deps.json
+C:\Users\hekeemje\source\repos\01HomeWorkCalc\01HomeWorkCalc\bin\Debug\netcoreapp3.1\01HomeWorkCalc.runtimeconfig.json
+C:\Users\hekeemje\source\repos\01HomeWorkCalc\01HomeWorkCalc\bin\Debug\netcoreapp3.1\01HomeWorkCalc.runtimeconfig.dev.json
+C:\Users\hekeemje\source\repos\01HomeWorkCalc\01HomeWorkCalc\bin\Debug\netcoreapp3.1\01HomeWorkCalc.dll
+C:\Users\hekeemje\source\repos\01HomeWorkCalc\01HomeWorkCalc\bin\Debug\netcoreapp3.1\01HomeWorkCalc.pdb
+C:\Users\hekeemje\source\repos\01HomeWorkCalc\01HomeWorkCalc\obj\Debug\netcoreapp3.1\01HomeWorkCalc.csprojAssemblyReference.cache
+C:\Users\hekeemje\source\repos\01HomeWorkCalc\01HomeWorkCalc\obj\Debug\netcoreapp3.1\01HomeWorkCalc.AssemblyInfoInputs.cache
+C:\Users\hekeemje\source\repos\01HomeWorkCalc\01HomeWorkCalc\obj\Debug\netcoreapp3.1\01HomeWorkCalc.AssemblyInfo.cs
+C:\Users\hekeemje\source\repos\01HomeWorkCalc\01HomeWorkCalc\obj\Debug\netcoreapp3.1\01HomeWorkCalc.csproj.CoreCompileInputs.cache
+C:\Users\hekeemje\source\repos\01HomeWorkCalc\01HomeWorkCalc\obj\Debug\netcoreapp3.1\01HomeWorkCalc.dll
+C:\Users\hekeemje\source\repos\01HomeWorkCalc\01HomeWorkCalc\obj\Debug\netcoreapp3.1\01HomeWorkCalc.pdb
+C:\Users\hekeemje\source\repos\01HomeWorkCalc\01HomeWorkCalc\obj\Debug\netcoreapp3.1\01HomeWorkCalc.genruntimeconfig.cache
+D:\C#\Git hw\prj_hillel_cs_elem_20210217\belyaev-nikita\home work\HomeWork1\01HomeWorkCalc\bin\Debug\netcoreapp3.1\01HomeWorkCalc.exe
+D:\C#\Git hw\prj_hillel_cs_elem_20210217\belyaev-nikita\home work\HomeWork1\01HomeWorkCalc\bin\Debug\netcoreapp3.1\01HomeWorkCalc.deps.json
+D:\C#\Git hw\prj_hillel_cs_elem_20210217\belyaev-nikita\home work\HomeWork1\01HomeWorkCalc\bin\Debug\netcoreapp3.1\01HomeWorkCalc.runtimeconfig.json
+D:\C#\Git hw\prj_hillel_cs_elem_20210217\belyaev-nikita\home work\HomeWork1\01HomeWorkCalc\bin\Debug\netcoreapp3.1\01HomeWorkCalc.runtimeconfig.dev.json
+D:\C#\Git hw\prj_hillel_cs_elem_20210217\belyaev-nikita\home work\HomeWork1\01HomeWorkCalc\bin\Debug\netcoreapp3.1\01HomeWorkCalc.dll
+D:\C#\Git hw\prj_hillel_cs_elem_20210217\belyaev-nikita\home work\HomeWork1\01HomeWorkCalc\bin\Debug\netcoreapp3.1\01HomeWorkCalc.pdb
+D:\C#\Git hw\prj_hillel_cs_elem_20210217\belyaev-nikita\home work\HomeWork1\01HomeWorkCalc\obj\Debug\netcoreapp3.1\01HomeWorkCalc.csprojAssemblyReference.cache
+D:\C#\Git hw\prj_hillel_cs_elem_20210217\belyaev-nikita\home work\HomeWork1\01HomeWorkCalc\obj\Debug\netcoreapp3.1\01HomeWorkCalc.AssemblyInfoInputs.cache
+D:\C#\Git hw\prj_hillel_cs_elem_20210217\belyaev-nikita\home work\HomeWork1\01HomeWorkCalc\obj\Debug\netcoreapp3.1\01HomeWorkCalc.AssemblyInfo.cs
+D:\C#\Git hw\prj_hillel_cs_elem_20210217\belyaev-nikita\home work\HomeWork1\01HomeWorkCalc\obj\Debug\netcoreapp3.1\01HomeWorkCalc.csproj.CoreCompileInputs.cache
+D:\C#\Git hw\prj_hillel_cs_elem_20210217\belyaev-nikita\home work\HomeWork1\01HomeWorkCalc\obj\Debug\netcoreapp3.1\01HomeWorkCalc.dll
+D:\C#\Git hw\prj_hillel_cs_elem_20210217\belyaev-nikita\home work\HomeWork1\01HomeWorkCalc\obj\Debug\netcoreapp3.1\01HomeWorkCalc.pdb
+D:\C#\Git hw\prj_hillel_cs_elem_20210217\belyaev-nikita\home work\HomeWork1\01HomeWorkCalc\obj\Debug\netcoreapp3.1\01HomeWorkCalc.genruntimeconfig.cache

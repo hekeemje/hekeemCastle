@@ -1,0 +1,13 @@
+D:\Hillel homework\homework2\first\first\bin\Debug\netcoreapp3.1\first.exe
+D:\Hillel homework\homework2\first\first\bin\Debug\netcoreapp3.1\first.deps.json
+D:\Hillel homework\homework2\first\first\bin\Debug\netcoreapp3.1\first.runtimeconfig.json
+D:\Hillel homework\homework2\first\first\bin\Debug\netcoreapp3.1\first.runtimeconfig.dev.json
+D:\Hillel homework\homework2\first\first\bin\Debug\netcoreapp3.1\first.dll
+D:\Hillel homework\homework2\first\first\bin\Debug\netcoreapp3.1\first.pdb
+D:\Hillel homework\homework2\first\first\obj\Debug\netcoreapp3.1\first.csprojAssemblyReference.cache
+D:\Hillel homework\homework2\first\first\obj\Debug\netcoreapp3.1\first.AssemblyInfoInputs.cache
+D:\Hillel homework\homework2\first\first\obj\Debug\netcoreapp3.1\first.AssemblyInfo.cs
+D:\Hillel homework\homework2\first\first\obj\Debug\netcoreapp3.1\first.csproj.CoreCompileInputs.cache
+D:\Hillel homework\homework2\first\first\obj\Debug\netcoreapp3.1\first.dll
+D:\Hillel homework\homework2\first\first\obj\Debug\netcoreapp3.1\first.pdb
+D:\Hillel homework\homework2\first\first\obj\Debug\netcoreapp3.1\first.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Hillel homework\homework2\five\five\bin\Debug\netcoreapp3.1\five.exe
+D:\Hillel homework\homework2\five\five\bin\Debug\netcoreapp3.1\five.deps.json
+D:\Hillel homework\homework2\five\five\bin\Debug\netcoreapp3.1\five.runtimeconfig.json
+D:\Hillel homework\homework2\five\five\bin\Debug\netcoreapp3.1\five.runtimeconfig.dev.json
+D:\Hillel homework\homework2\five\five\bin\Debug\netcoreapp3.1\five.dll
+D:\Hillel homework\homework2\five\five\bin\Debug\netcoreapp3.1\five.pdb
+D:\Hillel homework\homework2\five\five\obj\Debug\netcoreapp3.1\five.csprojAssemblyReference.cache
+D:\Hillel homework\homework2\five\five\obj\Debug\netcoreapp3.1\five.AssemblyInfoInputs.cache
+D:\Hillel homework\homework2\five\five\obj\Debug\netcoreapp3.1\five.AssemblyInfo.cs
+D:\Hillel homework\homework2\five\five\obj\Debug\netcoreapp3.1\five.csproj.CoreCompileInputs.cache
+D:\Hillel homework\homework2\five\five\obj\Debug\netcoreapp3.1\five.dll
+D:\Hillel homework\homework2\five\five\obj\Debug\netcoreapp3.1\five.pdb
+D:\Hillel homework\homework2\five\five\obj\Debug\netcoreapp3.1\five.genruntimeconfig.cache

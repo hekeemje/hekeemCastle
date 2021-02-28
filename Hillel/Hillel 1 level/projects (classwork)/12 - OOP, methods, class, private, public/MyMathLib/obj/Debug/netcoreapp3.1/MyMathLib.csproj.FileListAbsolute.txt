@@ -1,0 +1,9 @@
+D:\Hillel\something 12\MyMathLib\bin\Debug\netcoreapp3.1\MyMathLib.deps.json
+D:\Hillel\something 12\MyMathLib\bin\Debug\netcoreapp3.1\MyMathLib.dll
+D:\Hillel\something 12\MyMathLib\bin\Debug\netcoreapp3.1\MyMathLib.pdb
+D:\Hillel\something 12\MyMathLib\obj\Debug\netcoreapp3.1\MyMathLib.csprojAssemblyReference.cache
+D:\Hillel\something 12\MyMathLib\obj\Debug\netcoreapp3.1\MyMathLib.AssemblyInfoInputs.cache
+D:\Hillel\something 12\MyMathLib\obj\Debug\netcoreapp3.1\MyMathLib.AssemblyInfo.cs
+D:\Hillel\something 12\MyMathLib\obj\Debug\netcoreapp3.1\MyMathLib.csproj.CoreCompileInputs.cache
+D:\Hillel\something 12\MyMathLib\obj\Debug\netcoreapp3.1\MyMathLib.dll
+D:\Hillel\something 12\MyMathLib\obj\Debug\netcoreapp3.1\MyMathLib.pdb

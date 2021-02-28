@@ -1,0 +1,13 @@
+D:\Hillel homework\homework2\twelve\twelve\bin\Debug\netcoreapp3.1\twelve.exe
+D:\Hillel homework\homework2\twelve\twelve\bin\Debug\netcoreapp3.1\twelve.deps.json
+D:\Hillel homework\homework2\twelve\twelve\bin\Debug\netcoreapp3.1\twelve.runtimeconfig.json
+D:\Hillel homework\homework2\twelve\twelve\bin\Debug\netcoreapp3.1\twelve.runtimeconfig.dev.json
+D:\Hillel homework\homework2\twelve\twelve\bin\Debug\netcoreapp3.1\twelve.dll
+D:\Hillel homework\homework2\twelve\twelve\bin\Debug\netcoreapp3.1\twelve.pdb
+D:\Hillel homework\homework2\twelve\twelve\obj\Debug\netcoreapp3.1\twelve.csprojAssemblyReference.cache
+D:\Hillel homework\homework2\twelve\twelve\obj\Debug\netcoreapp3.1\twelve.AssemblyInfoInputs.cache
+D:\Hillel homework\homework2\twelve\twelve\obj\Debug\netcoreapp3.1\twelve.AssemblyInfo.cs
+D:\Hillel homework\homework2\twelve\twelve\obj\Debug\netcoreapp3.1\twelve.csproj.CoreCompileInputs.cache
+D:\Hillel homework\homework2\twelve\twelve\obj\Debug\netcoreapp3.1\twelve.dll
+D:\Hillel homework\homework2\twelve\twelve\obj\Debug\netcoreapp3.1\twelve.pdb
+D:\Hillel homework\homework2\twelve\twelve\obj\Debug\netcoreapp3.1\twelve.genruntimeconfig.cache

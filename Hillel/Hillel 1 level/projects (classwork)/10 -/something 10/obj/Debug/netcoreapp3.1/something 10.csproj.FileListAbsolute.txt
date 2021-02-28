@@ -1,0 +1,13 @@
+D:\Hillel 1 level\projects (classwork)\10 -\something 10\bin\Debug\netcoreapp3.1\something 10.exe
+D:\Hillel 1 level\projects (classwork)\10 -\something 10\bin\Debug\netcoreapp3.1\something 10.deps.json
+D:\Hillel 1 level\projects (classwork)\10 -\something 10\bin\Debug\netcoreapp3.1\something 10.runtimeconfig.json
+D:\Hillel 1 level\projects (classwork)\10 -\something 10\bin\Debug\netcoreapp3.1\something 10.runtimeconfig.dev.json
+D:\Hillel 1 level\projects (classwork)\10 -\something 10\bin\Debug\netcoreapp3.1\something 10.dll
+D:\Hillel 1 level\projects (classwork)\10 -\something 10\bin\Debug\netcoreapp3.1\something 10.pdb
+D:\Hillel 1 level\projects (classwork)\10 -\something 10\obj\Debug\netcoreapp3.1\something 10.AssemblyInfoInputs.cache
+D:\Hillel 1 level\projects (classwork)\10 -\something 10\obj\Debug\netcoreapp3.1\something 10.AssemblyInfo.cs
+D:\Hillel 1 level\projects (classwork)\10 -\something 10\obj\Debug\netcoreapp3.1\something 10.csproj.CoreCompileInputs.cache
+D:\Hillel 1 level\projects (classwork)\10 -\something 10\obj\Debug\netcoreapp3.1\something 10.dll
+D:\Hillel 1 level\projects (classwork)\10 -\something 10\obj\Debug\netcoreapp3.1\something 10.pdb
+D:\Hillel 1 level\projects (classwork)\10 -\something 10\obj\Debug\netcoreapp3.1\something 10.genruntimeconfig.cache
+D:\Hillel 1 level\projects (classwork)\10 -\something 10\bin\Debug\netcoreapp3.1\something 10.xml

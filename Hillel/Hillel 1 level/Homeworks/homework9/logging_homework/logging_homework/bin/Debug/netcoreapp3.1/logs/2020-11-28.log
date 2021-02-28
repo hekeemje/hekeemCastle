@@ -1,0 +1,7 @@
+D:\Hillel 1 level\Homeworks\homework9\logging_homework\logging_homework\bin\Debug\netcoreapp3.1\ - корневой каталог нашего приложения
+       2020-11-28 - текущая дата в формате yyyy-MM-dd
+      2020-11-28 01:35:50.2144 - текущая дата в формате yyyy-MM-dd HH:mm:ss.ffff
+      logging_homework.Program.Main - место вызова лога (название класса, название метода)
+      INFO - УРОВЕНЬ ЛОГИРОВАНИЯ
+      INFO MESSAGE - НЕПОСРЕДСТВЕННО СООБЩЕНИЕ, КОТОРОЕ БУДЕТ ЗАПИСАНО В ЛОГ
+

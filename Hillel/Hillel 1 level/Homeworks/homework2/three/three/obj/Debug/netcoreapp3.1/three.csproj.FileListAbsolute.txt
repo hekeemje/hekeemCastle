@@ -1,0 +1,13 @@
+D:\Hillel homework\homework2\three\three\bin\Debug\netcoreapp3.1\three.exe
+D:\Hillel homework\homework2\three\three\bin\Debug\netcoreapp3.1\three.deps.json
+D:\Hillel homework\homework2\three\three\bin\Debug\netcoreapp3.1\three.runtimeconfig.json
+D:\Hillel homework\homework2\three\three\bin\Debug\netcoreapp3.1\three.runtimeconfig.dev.json
+D:\Hillel homework\homework2\three\three\bin\Debug\netcoreapp3.1\three.dll
+D:\Hillel homework\homework2\three\three\bin\Debug\netcoreapp3.1\three.pdb
+D:\Hillel homework\homework2\three\three\obj\Debug\netcoreapp3.1\three.csprojAssemblyReference.cache
+D:\Hillel homework\homework2\three\three\obj\Debug\netcoreapp3.1\three.AssemblyInfoInputs.cache
+D:\Hillel homework\homework2\three\three\obj\Debug\netcoreapp3.1\three.AssemblyInfo.cs
+D:\Hillel homework\homework2\three\three\obj\Debug\netcoreapp3.1\three.csproj.CoreCompileInputs.cache
+D:\Hillel homework\homework2\three\three\obj\Debug\netcoreapp3.1\three.dll
+D:\Hillel homework\homework2\three\three\obj\Debug\netcoreapp3.1\three.pdb
+D:\Hillel homework\homework2\three\three\obj\Debug\netcoreapp3.1\three.genruntimeconfig.cache

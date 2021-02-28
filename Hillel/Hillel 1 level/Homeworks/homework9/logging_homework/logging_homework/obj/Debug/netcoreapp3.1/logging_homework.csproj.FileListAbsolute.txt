@@ -1,0 +1,16 @@
+D:\Hillel 1 level\Homeworks\homework9\logging_homework\logging_homework\obj\Debug\netcoreapp3.1\logging_homework.csprojAssemblyReference.cache
+D:\Hillel 1 level\Homeworks\homework9\logging_homework\logging_homework\obj\Debug\netcoreapp3.1\logging_homework.AssemblyInfoInputs.cache
+D:\Hillel 1 level\Homeworks\homework9\logging_homework\logging_homework\obj\Debug\netcoreapp3.1\logging_homework.AssemblyInfo.cs
+D:\Hillel 1 level\Homeworks\homework9\logging_homework\logging_homework\bin\Debug\netcoreapp3.1\logging_homework.exe
+D:\Hillel 1 level\Homeworks\homework9\logging_homework\logging_homework\bin\Debug\netcoreapp3.1\logging_homework.deps.json
+D:\Hillel 1 level\Homeworks\homework9\logging_homework\logging_homework\bin\Debug\netcoreapp3.1\logging_homework.runtimeconfig.json
+D:\Hillel 1 level\Homeworks\homework9\logging_homework\logging_homework\bin\Debug\netcoreapp3.1\logging_homework.runtimeconfig.dev.json
+D:\Hillel 1 level\Homeworks\homework9\logging_homework\logging_homework\bin\Debug\netcoreapp3.1\logging_homework.dll
+D:\Hillel 1 level\Homeworks\homework9\logging_homework\logging_homework\bin\Debug\netcoreapp3.1\logging_homework.pdb
+D:\Hillel 1 level\Homeworks\homework9\logging_homework\logging_homework\obj\Debug\netcoreapp3.1\logging_homework.dll
+D:\Hillel 1 level\Homeworks\homework9\logging_homework\logging_homework\obj\Debug\netcoreapp3.1\logging_homework.pdb
+D:\Hillel 1 level\Homeworks\homework9\logging_homework\logging_homework\obj\Debug\netcoreapp3.1\logging_homework.genruntimeconfig.cache
+D:\Hillel 1 level\Homeworks\homework9\logging_homework\logging_homework\bin\Debug\netcoreapp3.1\NLog.dll
+D:\Hillel 1 level\Homeworks\homework9\logging_homework\logging_homework\obj\Debug\netcoreapp3.1\logging_homework.csproj.CopyComplete
+D:\Hillel 1 level\Homeworks\homework9\logging_homework\logging_homework\bin\Debug\netcoreapp3.1\NLog.config
+D:\Hillel 1 level\Homeworks\homework9\logging_homework\logging_homework\obj\Debug\netcoreapp3.1\logging_homework.csproj.CoreCompileInputs.cache

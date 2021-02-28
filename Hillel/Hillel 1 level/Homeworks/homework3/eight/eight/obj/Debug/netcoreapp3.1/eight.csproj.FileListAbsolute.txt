@@ -1,0 +1,13 @@
+D:\Hillel homework\homework3\eight\eight\bin\Debug\netcoreapp3.1\eight.exe
+D:\Hillel homework\homework3\eight\eight\bin\Debug\netcoreapp3.1\eight.deps.json
+D:\Hillel homework\homework3\eight\eight\bin\Debug\netcoreapp3.1\eight.runtimeconfig.json
+D:\Hillel homework\homework3\eight\eight\bin\Debug\netcoreapp3.1\eight.runtimeconfig.dev.json
+D:\Hillel homework\homework3\eight\eight\bin\Debug\netcoreapp3.1\eight.dll
+D:\Hillel homework\homework3\eight\eight\bin\Debug\netcoreapp3.1\eight.pdb
+D:\Hillel homework\homework3\eight\eight\obj\Debug\netcoreapp3.1\eight.csprojAssemblyReference.cache
+D:\Hillel homework\homework3\eight\eight\obj\Debug\netcoreapp3.1\eight.AssemblyInfoInputs.cache
+D:\Hillel homework\homework3\eight\eight\obj\Debug\netcoreapp3.1\eight.AssemblyInfo.cs
+D:\Hillel homework\homework3\eight\eight\obj\Debug\netcoreapp3.1\eight.csproj.CoreCompileInputs.cache
+D:\Hillel homework\homework3\eight\eight\obj\Debug\netcoreapp3.1\eight.dll
+D:\Hillel homework\homework3\eight\eight\obj\Debug\netcoreapp3.1\eight.pdb
+D:\Hillel homework\homework3\eight\eight\obj\Debug\netcoreapp3.1\eight.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Hillel homework\homework4\six\six\bin\Debug\netcoreapp3.1\six.exe
+D:\Hillel homework\homework4\six\six\bin\Debug\netcoreapp3.1\six.deps.json
+D:\Hillel homework\homework4\six\six\bin\Debug\netcoreapp3.1\six.runtimeconfig.json
+D:\Hillel homework\homework4\six\six\bin\Debug\netcoreapp3.1\six.runtimeconfig.dev.json
+D:\Hillel homework\homework4\six\six\bin\Debug\netcoreapp3.1\six.dll
+D:\Hillel homework\homework4\six\six\bin\Debug\netcoreapp3.1\six.pdb
+D:\Hillel homework\homework4\six\six\obj\Debug\netcoreapp3.1\six.csprojAssemblyReference.cache
+D:\Hillel homework\homework4\six\six\obj\Debug\netcoreapp3.1\six.AssemblyInfoInputs.cache
+D:\Hillel homework\homework4\six\six\obj\Debug\netcoreapp3.1\six.AssemblyInfo.cs
+D:\Hillel homework\homework4\six\six\obj\Debug\netcoreapp3.1\six.csproj.CoreCompileInputs.cache
+D:\Hillel homework\homework4\six\six\obj\Debug\netcoreapp3.1\six.dll
+D:\Hillel homework\homework4\six\six\obj\Debug\netcoreapp3.1\six.pdb
+D:\Hillel homework\homework4\six\six\obj\Debug\netcoreapp3.1\six.genruntimeconfig.cache
