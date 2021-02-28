@@ -1,0 +1,13 @@
+D:\Hillel homework\homework2\Seven\Seven\bin\Debug\netcoreapp3.1\Seven.exe
+D:\Hillel homework\homework2\Seven\Seven\bin\Debug\netcoreapp3.1\Seven.deps.json
+D:\Hillel homework\homework2\Seven\Seven\bin\Debug\netcoreapp3.1\Seven.runtimeconfig.json
+D:\Hillel homework\homework2\Seven\Seven\bin\Debug\netcoreapp3.1\Seven.runtimeconfig.dev.json
+D:\Hillel homework\homework2\Seven\Seven\bin\Debug\netcoreapp3.1\Seven.dll
+D:\Hillel homework\homework2\Seven\Seven\bin\Debug\netcoreapp3.1\Seven.pdb
+D:\Hillel homework\homework2\Seven\Seven\obj\Debug\netcoreapp3.1\Seven.csprojAssemblyReference.cache
+D:\Hillel homework\homework2\Seven\Seven\obj\Debug\netcoreapp3.1\Seven.AssemblyInfoInputs.cache
+D:\Hillel homework\homework2\Seven\Seven\obj\Debug\netcoreapp3.1\Seven.AssemblyInfo.cs
+D:\Hillel homework\homework2\Seven\Seven\obj\Debug\netcoreapp3.1\Seven.csproj.CoreCompileInputs.cache
+D:\Hillel homework\homework2\Seven\Seven\obj\Debug\netcoreapp3.1\Seven.dll
+D:\Hillel homework\homework2\Seven\Seven\obj\Debug\netcoreapp3.1\Seven.pdb
+D:\Hillel homework\homework2\Seven\Seven\obj\Debug\netcoreapp3.1\Seven.genruntimeconfig.cache

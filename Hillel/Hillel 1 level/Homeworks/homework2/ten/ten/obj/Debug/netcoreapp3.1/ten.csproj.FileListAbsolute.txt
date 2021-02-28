@@ -1,0 +1,13 @@
+D:\Hillel homework\homework2\ten\ten\bin\Debug\netcoreapp3.1\ten.exe
+D:\Hillel homework\homework2\ten\ten\bin\Debug\netcoreapp3.1\ten.deps.json
+D:\Hillel homework\homework2\ten\ten\bin\Debug\netcoreapp3.1\ten.runtimeconfig.json
+D:\Hillel homework\homework2\ten\ten\bin\Debug\netcoreapp3.1\ten.runtimeconfig.dev.json
+D:\Hillel homework\homework2\ten\ten\bin\Debug\netcoreapp3.1\ten.dll
+D:\Hillel homework\homework2\ten\ten\bin\Debug\netcoreapp3.1\ten.pdb
+D:\Hillel homework\homework2\ten\ten\obj\Debug\netcoreapp3.1\ten.csprojAssemblyReference.cache
+D:\Hillel homework\homework2\ten\ten\obj\Debug\netcoreapp3.1\ten.AssemblyInfoInputs.cache
+D:\Hillel homework\homework2\ten\ten\obj\Debug\netcoreapp3.1\ten.AssemblyInfo.cs
+D:\Hillel homework\homework2\ten\ten\obj\Debug\netcoreapp3.1\ten.csproj.CoreCompileInputs.cache
+D:\Hillel homework\homework2\ten\ten\obj\Debug\netcoreapp3.1\ten.dll
+D:\Hillel homework\homework2\ten\ten\obj\Debug\netcoreapp3.1\ten.pdb
+D:\Hillel homework\homework2\ten\ten\obj\Debug\netcoreapp3.1\ten.genruntimeconfig.cache

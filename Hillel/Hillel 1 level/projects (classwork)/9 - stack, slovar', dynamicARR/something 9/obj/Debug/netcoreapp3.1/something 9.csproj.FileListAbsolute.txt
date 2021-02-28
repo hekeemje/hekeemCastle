@@ -1,0 +1,13 @@
+D:\Hillel homework\something 9\something 9\bin\Debug\netcoreapp3.1\something 9.exe
+D:\Hillel homework\something 9\something 9\bin\Debug\netcoreapp3.1\something 9.deps.json
+D:\Hillel homework\something 9\something 9\bin\Debug\netcoreapp3.1\something 9.runtimeconfig.json
+D:\Hillel homework\something 9\something 9\bin\Debug\netcoreapp3.1\something 9.runtimeconfig.dev.json
+D:\Hillel homework\something 9\something 9\bin\Debug\netcoreapp3.1\something 9.dll
+D:\Hillel homework\something 9\something 9\bin\Debug\netcoreapp3.1\something 9.pdb
+D:\Hillel homework\something 9\something 9\obj\Debug\netcoreapp3.1\something 9.csprojAssemblyReference.cache
+D:\Hillel homework\something 9\something 9\obj\Debug\netcoreapp3.1\something 9.AssemblyInfoInputs.cache
+D:\Hillel homework\something 9\something 9\obj\Debug\netcoreapp3.1\something 9.AssemblyInfo.cs
+D:\Hillel homework\something 9\something 9\obj\Debug\netcoreapp3.1\something 9.csproj.CoreCompileInputs.cache
+D:\Hillel homework\something 9\something 9\obj\Debug\netcoreapp3.1\something 9.dll
+D:\Hillel homework\something 9\something 9\obj\Debug\netcoreapp3.1\something 9.pdb
+D:\Hillel homework\something 9\something 9\obj\Debug\netcoreapp3.1\something 9.genruntimeconfig.cache

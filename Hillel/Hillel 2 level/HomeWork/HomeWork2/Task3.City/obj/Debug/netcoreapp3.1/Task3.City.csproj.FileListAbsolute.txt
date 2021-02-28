@@ -1,0 +1,13 @@
+C:\Users\hekeemje\source\repos\HomeWork2\Task3.City\bin\Debug\netcoreapp3.1\Task3.City.exe
+C:\Users\hekeemje\source\repos\HomeWork2\Task3.City\bin\Debug\netcoreapp3.1\Task3.City.deps.json
+C:\Users\hekeemje\source\repos\HomeWork2\Task3.City\bin\Debug\netcoreapp3.1\Task3.City.runtimeconfig.json
+C:\Users\hekeemje\source\repos\HomeWork2\Task3.City\bin\Debug\netcoreapp3.1\Task3.City.runtimeconfig.dev.json
+C:\Users\hekeemje\source\repos\HomeWork2\Task3.City\bin\Debug\netcoreapp3.1\Task3.City.dll
+C:\Users\hekeemje\source\repos\HomeWork2\Task3.City\bin\Debug\netcoreapp3.1\Task3.City.pdb
+C:\Users\hekeemje\source\repos\HomeWork2\Task3.City\obj\Debug\netcoreapp3.1\Task3.City.csprojAssemblyReference.cache
+C:\Users\hekeemje\source\repos\HomeWork2\Task3.City\obj\Debug\netcoreapp3.1\Task3.City.AssemblyInfoInputs.cache
+C:\Users\hekeemje\source\repos\HomeWork2\Task3.City\obj\Debug\netcoreapp3.1\Task3.City.AssemblyInfo.cs
+C:\Users\hekeemje\source\repos\HomeWork2\Task3.City\obj\Debug\netcoreapp3.1\Task3.City.csproj.CoreCompileInputs.cache
+C:\Users\hekeemje\source\repos\HomeWork2\Task3.City\obj\Debug\netcoreapp3.1\Task3.City.dll
+C:\Users\hekeemje\source\repos\HomeWork2\Task3.City\obj\Debug\netcoreapp3.1\Task3.City.pdb
+C:\Users\hekeemje\source\repos\HomeWork2\Task3.City\obj\Debug\netcoreapp3.1\Task3.City.genruntimeconfig.cache

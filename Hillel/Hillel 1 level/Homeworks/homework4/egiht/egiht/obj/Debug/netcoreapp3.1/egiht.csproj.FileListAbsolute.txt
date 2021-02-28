@@ -1,0 +1,13 @@
+D:\Hillel homework\homework4\egiht\egiht\bin\Debug\netcoreapp3.1\egiht.exe
+D:\Hillel homework\homework4\egiht\egiht\bin\Debug\netcoreapp3.1\egiht.deps.json
+D:\Hillel homework\homework4\egiht\egiht\bin\Debug\netcoreapp3.1\egiht.runtimeconfig.json
+D:\Hillel homework\homework4\egiht\egiht\bin\Debug\netcoreapp3.1\egiht.runtimeconfig.dev.json
+D:\Hillel homework\homework4\egiht\egiht\bin\Debug\netcoreapp3.1\egiht.dll
+D:\Hillel homework\homework4\egiht\egiht\bin\Debug\netcoreapp3.1\egiht.pdb
+D:\Hillel homework\homework4\egiht\egiht\obj\Debug\netcoreapp3.1\egiht.csprojAssemblyReference.cache
+D:\Hillel homework\homework4\egiht\egiht\obj\Debug\netcoreapp3.1\egiht.AssemblyInfoInputs.cache
+D:\Hillel homework\homework4\egiht\egiht\obj\Debug\netcoreapp3.1\egiht.AssemblyInfo.cs
+D:\Hillel homework\homework4\egiht\egiht\obj\Debug\netcoreapp3.1\egiht.csproj.CoreCompileInputs.cache
+D:\Hillel homework\homework4\egiht\egiht\obj\Debug\netcoreapp3.1\egiht.dll
+D:\Hillel homework\homework4\egiht\egiht\obj\Debug\netcoreapp3.1\egiht.pdb
+D:\Hillel homework\homework4\egiht\egiht\obj\Debug\netcoreapp3.1\egiht.genruntimeconfig.cache

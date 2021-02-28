@@ -1,0 +1,6 @@
+git checkout -b belyaev_homework3 - создаем новую ветку
+git add .
+git commit -m "HomeWork3 was created"
+git request-pull dev origin - создаем Merge Request 
+git push -o merge_request.create -о merge_request.target=dev -o merge_request.remove_source_branch -o merge_request.title="HomeWork3 is done." -o merge_request.description="HomeWork3 is finally done!"
+и после этого merge request успешно создался на сайте https://gitlab.com/streetsata/prj_hillel_cs_elem_20210217/-/merge_requests/21

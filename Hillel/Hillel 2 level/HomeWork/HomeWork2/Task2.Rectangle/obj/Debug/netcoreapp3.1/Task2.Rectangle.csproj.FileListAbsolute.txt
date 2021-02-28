@@ -1,0 +1,13 @@
+C:\Users\hekeemje\source\repos\HomeWork2\Task2.Rectangle\bin\Debug\netcoreapp3.1\Task2.Rectangle.exe
+C:\Users\hekeemje\source\repos\HomeWork2\Task2.Rectangle\bin\Debug\netcoreapp3.1\Task2.Rectangle.deps.json
+C:\Users\hekeemje\source\repos\HomeWork2\Task2.Rectangle\bin\Debug\netcoreapp3.1\Task2.Rectangle.runtimeconfig.json
+C:\Users\hekeemje\source\repos\HomeWork2\Task2.Rectangle\bin\Debug\netcoreapp3.1\Task2.Rectangle.runtimeconfig.dev.json
+C:\Users\hekeemje\source\repos\HomeWork2\Task2.Rectangle\bin\Debug\netcoreapp3.1\Task2.Rectangle.dll
+C:\Users\hekeemje\source\repos\HomeWork2\Task2.Rectangle\bin\Debug\netcoreapp3.1\Task2.Rectangle.pdb
+C:\Users\hekeemje\source\repos\HomeWork2\Task2.Rectangle\obj\Debug\netcoreapp3.1\Task2.Rectangle.csprojAssemblyReference.cache
+C:\Users\hekeemje\source\repos\HomeWork2\Task2.Rectangle\obj\Debug\netcoreapp3.1\Task2.Rectangle.AssemblyInfoInputs.cache
+C:\Users\hekeemje\source\repos\HomeWork2\Task2.Rectangle\obj\Debug\netcoreapp3.1\Task2.Rectangle.AssemblyInfo.cs
+C:\Users\hekeemje\source\repos\HomeWork2\Task2.Rectangle\obj\Debug\netcoreapp3.1\Task2.Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\hekeemje\source\repos\HomeWork2\Task2.Rectangle\obj\Debug\netcoreapp3.1\Task2.Rectangle.dll
+C:\Users\hekeemje\source\repos\HomeWork2\Task2.Rectangle\obj\Debug\netcoreapp3.1\Task2.Rectangle.pdb
+C:\Users\hekeemje\source\repos\HomeWork2\Task2.Rectangle\obj\Debug\netcoreapp3.1\Task2.Rectangle.genruntimeconfig.cache

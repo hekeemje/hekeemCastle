@@ -1,0 +1,13 @@
+C:\Users\hekeemje\source\repos\HomeWork2\HomeWork2\bin\Debug\netcoreapp3.1\Task1.Worker.exe
+C:\Users\hekeemje\source\repos\HomeWork2\HomeWork2\bin\Debug\netcoreapp3.1\Task1.Worker.deps.json
+C:\Users\hekeemje\source\repos\HomeWork2\HomeWork2\bin\Debug\netcoreapp3.1\Task1.Worker.runtimeconfig.json
+C:\Users\hekeemje\source\repos\HomeWork2\HomeWork2\bin\Debug\netcoreapp3.1\Task1.Worker.runtimeconfig.dev.json
+C:\Users\hekeemje\source\repos\HomeWork2\HomeWork2\bin\Debug\netcoreapp3.1\Task1.Worker.dll
+C:\Users\hekeemje\source\repos\HomeWork2\HomeWork2\bin\Debug\netcoreapp3.1\Task1.Worker.pdb
+C:\Users\hekeemje\source\repos\HomeWork2\HomeWork2\obj\Debug\netcoreapp3.1\Task1.Worker.AssemblyInfoInputs.cache
+C:\Users\hekeemje\source\repos\HomeWork2\HomeWork2\obj\Debug\netcoreapp3.1\Task1.Worker.AssemblyInfo.cs
+C:\Users\hekeemje\source\repos\HomeWork2\HomeWork2\obj\Debug\netcoreapp3.1\Task1.Worker.csproj.CoreCompileInputs.cache
+C:\Users\hekeemje\source\repos\HomeWork2\HomeWork2\obj\Debug\netcoreapp3.1\Task1.Worker.dll
+C:\Users\hekeemje\source\repos\HomeWork2\HomeWork2\obj\Debug\netcoreapp3.1\Task1.Worker.pdb
+C:\Users\hekeemje\source\repos\HomeWork2\HomeWork2\obj\Debug\netcoreapp3.1\Task1.Worker.genruntimeconfig.cache
+C:\Users\hekeemje\source\repos\HomeWork2\HomeWork2\obj\Debug\netcoreapp3.1\Task1.Worker.csprojAssemblyReference.cache
