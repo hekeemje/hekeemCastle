@@ -1,19 +1,7 @@
-﻿using System;
-using MyMathLib;
+﻿using MyMathLib;
 
 namespace _01_Problem
 {
-    class Student // пользовательский тип данных
-    {
-        public string Name;
-        public string Surname;
-        public int Age;
-
-        public void Print()
-        {
-            Console.WriteLine($"{Name} {Surname} {Age}");
-        }
-    }
     class Program
     {
         static void Main(string[] args)
@@ -29,6 +17,7 @@ namespace _01_Problem
             student2.Name = "Dima";
             student2.Surname = "Dimov";
             student2.Age = 19;
+            
 
             student2.Print();
 

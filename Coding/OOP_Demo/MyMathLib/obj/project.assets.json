@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hekeemje\\source\\repos\\OOP_Demo\\MyMathLib\\MyMathLib.csproj",
+      "projectUniqueName": "D:\\GitKraken\\hekeemCastle\\Coding\\OOP_Demo\\MyMathLib\\MyMathLib.csproj",
       "projectName": "MyMathLib",
-      "projectPath": "C:\\Users\\hekeemje\\source\\repos\\OOP_Demo\\MyMathLib\\MyMathLib.csproj",
+      "projectPath": "D:\\GitKraken\\hekeemCastle\\Coding\\OOP_Demo\\MyMathLib\\MyMathLib.csproj",
       "packagesPath": "C:\\Users\\hekeemje\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hekeemje\\source\\repos\\OOP_Demo\\MyMathLib\\obj\\",
+      "outputPath": "D:\\GitKraken\\hekeemCastle\\Coding\\OOP_Demo\\MyMathLib\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hekeemje\\AppData\\Roaming\\NuGet\\NuGet.Config",

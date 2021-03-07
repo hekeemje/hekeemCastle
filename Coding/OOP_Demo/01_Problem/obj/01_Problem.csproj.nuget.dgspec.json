@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hekeemje\\source\\repos\\OOP_Demo\\01_Problem\\01_Problem.csproj": {}
+    "D:\\GitKraken\\hekeemCastle\\Coding\\OOP_Demo\\01_Problem\\01_Problem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hekeemje\\source\\repos\\OOP_Demo\\01_Problem\\01_Problem.csproj": {
+    "D:\\GitKraken\\hekeemCastle\\Coding\\OOP_Demo\\01_Problem\\01_Problem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hekeemje\\source\\repos\\OOP_Demo\\01_Problem\\01_Problem.csproj",
+        "projectUniqueName": "D:\\GitKraken\\hekeemCastle\\Coding\\OOP_Demo\\01_Problem\\01_Problem.csproj",
         "projectName": "01_Problem",
-        "projectPath": "C:\\Users\\hekeemje\\source\\repos\\OOP_Demo\\01_Problem\\01_Problem.csproj",
+        "projectPath": "D:\\GitKraken\\hekeemCastle\\Coding\\OOP_Demo\\01_Problem\\01_Problem.csproj",
         "packagesPath": "C:\\Users\\hekeemje\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hekeemje\\source\\repos\\OOP_Demo\\01_Problem\\obj\\",
+        "outputPath": "D:\\GitKraken\\hekeemCastle\\Coding\\OOP_Demo\\01_Problem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hekeemje\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\hekeemje\\source\\repos\\OOP_Demo\\MyMathLib\\MyMathLib.csproj": {
-                "projectPath": "C:\\Users\\hekeemje\\source\\repos\\OOP_Demo\\MyMathLib\\MyMathLib.csproj"
+              "D:\\GitKraken\\hekeemCastle\\Coding\\OOP_Demo\\MyMathLib\\MyMathLib.csproj": {
+                "projectPath": "D:\\GitKraken\\hekeemCastle\\Coding\\OOP_Demo\\MyMathLib\\MyMathLib.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\hekeemje\\source\\repos\\OOP_Demo\\MyMathLib\\MyMathLib.csproj": {
+    "D:\\GitKraken\\hekeemCastle\\Coding\\OOP_Demo\\MyMathLib\\MyMathLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hekeemje\\source\\repos\\OOP_Demo\\MyMathLib\\MyMathLib.csproj",
+        "projectUniqueName": "D:\\GitKraken\\hekeemCastle\\Coding\\OOP_Demo\\MyMathLib\\MyMathLib.csproj",
         "projectName": "MyMathLib",
-        "projectPath": "C:\\Users\\hekeemje\\source\\repos\\OOP_Demo\\MyMathLib\\MyMathLib.csproj",
+        "projectPath": "D:\\GitKraken\\hekeemCastle\\Coding\\OOP_Demo\\MyMathLib\\MyMathLib.csproj",
         "packagesPath": "C:\\Users\\hekeemje\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hekeemje\\source\\repos\\OOP_Demo\\MyMathLib\\obj\\",
+        "outputPath": "D:\\GitKraken\\hekeemCastle\\Coding\\OOP_Demo\\MyMathLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hekeemje\\AppData\\Roaming\\NuGet\\NuGet.Config",
