@@ -4,24 +4,36 @@ namespace _01_Problem
 {
     class Student // пользовательский тип данных
     {
-        private string Name;
-        private string Surname;
-        private int Age;
+        private string name;
+        private string surname;
+        private int age;
         private bool isGoodStudent;
 
         public void SetName(string name)
         {
-            Name = name;
+            name = name;
         }
 
         public string GetName()
         {
-            return Name;
+            return surname;
+        }
+
+        public string Surname
+        {
+            get 
+            {
+                return surname;
+            }
+            set 
+            {
+                surname = value;
+            }
         }
 
         public void Print()
         {
-            Console.WriteLine($"{Name} {Surname} {Age} {isGoodStudent}");
+            Console.WriteLine($"{name} {surname} {age} {isGoodStudent}");
         }
     }
 }

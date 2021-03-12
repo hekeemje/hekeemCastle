@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hekeemje\\source\\repos\\HomeWork2\\HomeWork2\\Task1.Worker.csproj",
+      "projectUniqueName": "D:\\GitKraken\\hekeemCastle\\Hillel\\Hillel 2 level\\HomeWork2\\HomeWork2\\Task1.Worker.csproj",
       "projectName": "Task1.Worker",
-      "projectPath": "C:\\Users\\hekeemje\\source\\repos\\HomeWork2\\HomeWork2\\Task1.Worker.csproj",
+      "projectPath": "D:\\GitKraken\\hekeemCastle\\Hillel\\Hillel 2 level\\HomeWork2\\HomeWork2\\Task1.Worker.csproj",
       "packagesPath": "C:\\Users\\hekeemje\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hekeemje\\source\\repos\\HomeWork2\\HomeWork2\\obj\\",
+      "outputPath": "D:\\GitKraken\\hekeemCastle\\Hillel\\Hillel 2 level\\HomeWork2\\HomeWork2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hekeemje\\AppData\\Roaming\\NuGet\\NuGet.Config",

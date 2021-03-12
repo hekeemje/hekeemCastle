@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hekeemje\\source\\repos\\HomeWork2\\Task3.City\\Task3.City.csproj": {}
+    "D:\\GitKraken\\hekeemCastle\\Hillel\\Hillel 2 level\\HomeWork2\\Task3.City\\Task3.City.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hekeemje\\source\\repos\\HomeWork2\\Task3.City\\Task3.City.csproj": {
+    "D:\\GitKraken\\hekeemCastle\\Hillel\\Hillel 2 level\\HomeWork2\\Task3.City\\Task3.City.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hekeemje\\source\\repos\\HomeWork2\\Task3.City\\Task3.City.csproj",
+        "projectUniqueName": "D:\\GitKraken\\hekeemCastle\\Hillel\\Hillel 2 level\\HomeWork2\\Task3.City\\Task3.City.csproj",
         "projectName": "Task3.City",
-        "projectPath": "C:\\Users\\hekeemje\\source\\repos\\HomeWork2\\Task3.City\\Task3.City.csproj",
+        "projectPath": "D:\\GitKraken\\hekeemCastle\\Hillel\\Hillel 2 level\\HomeWork2\\Task3.City\\Task3.City.csproj",
         "packagesPath": "C:\\Users\\hekeemje\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hekeemje\\source\\repos\\HomeWork2\\Task3.City\\obj\\",
+        "outputPath": "D:\\GitKraken\\hekeemCastle\\Hillel\\Hillel 2 level\\HomeWork2\\Task3.City\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hekeemje\\AppData\\Roaming\\NuGet\\NuGet.Config",

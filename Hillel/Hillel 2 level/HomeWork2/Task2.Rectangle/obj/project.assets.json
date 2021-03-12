@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hekeemje\\source\\repos\\HomeWork2\\Task2.Rectangle\\Task2.Rectangle.csproj",
+      "projectUniqueName": "D:\\GitKraken\\hekeemCastle\\Hillel\\Hillel 2 level\\HomeWork2\\Task2.Rectangle\\Task2.Rectangle.csproj",
       "projectName": "Task2.Rectangle",
-      "projectPath": "C:\\Users\\hekeemje\\source\\repos\\HomeWork2\\Task2.Rectangle\\Task2.Rectangle.csproj",
+      "projectPath": "D:\\GitKraken\\hekeemCastle\\Hillel\\Hillel 2 level\\HomeWork2\\Task2.Rectangle\\Task2.Rectangle.csproj",
       "packagesPath": "C:\\Users\\hekeemje\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hekeemje\\source\\repos\\HomeWork2\\Task2.Rectangle\\obj\\",
+      "outputPath": "D:\\GitKraken\\hekeemCastle\\Hillel\\Hillel 2 level\\HomeWork2\\Task2.Rectangle\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hekeemje\\AppData\\Roaming\\NuGet\\NuGet.Config",
