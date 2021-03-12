@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "01_Problem/1.0.0": {
+        "dependencies": {
+          "MyMathLib": "1.0.0"
+        },
+        "runtime": {
+          "01_Problem.dll": {}
+        }
+      },
+      "MyMathLib/1.0.0": {
+        "runtime": {
+          "MyMathLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "01_Problem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyMathLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

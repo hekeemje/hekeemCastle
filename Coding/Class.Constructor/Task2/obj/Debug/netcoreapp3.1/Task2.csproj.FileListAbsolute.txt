@@ -1,0 +1,13 @@
+D:\GitKraken\hekeemCastle\Coding\Class.Constructor\Task2\bin\Debug\netcoreapp3.1\Task2.exe
+D:\GitKraken\hekeemCastle\Coding\Class.Constructor\Task2\bin\Debug\netcoreapp3.1\Task2.deps.json
+D:\GitKraken\hekeemCastle\Coding\Class.Constructor\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.json
+D:\GitKraken\hekeemCastle\Coding\Class.Constructor\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.dev.json
+D:\GitKraken\hekeemCastle\Coding\Class.Constructor\Task2\bin\Debug\netcoreapp3.1\Task2.dll
+D:\GitKraken\hekeemCastle\Coding\Class.Constructor\Task2\bin\Debug\netcoreapp3.1\Task2.pdb
+D:\GitKraken\hekeemCastle\Coding\Class.Constructor\Task2\obj\Debug\netcoreapp3.1\Task2.csprojAssemblyReference.cache
+D:\GitKraken\hekeemCastle\Coding\Class.Constructor\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfoInputs.cache
+D:\GitKraken\hekeemCastle\Coding\Class.Constructor\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfo.cs
+D:\GitKraken\hekeemCastle\Coding\Class.Constructor\Task2\obj\Debug\netcoreapp3.1\Task2.csproj.CoreCompileInputs.cache
+D:\GitKraken\hekeemCastle\Coding\Class.Constructor\Task2\obj\Debug\netcoreapp3.1\Task2.dll
+D:\GitKraken\hekeemCastle\Coding\Class.Constructor\Task2\obj\Debug\netcoreapp3.1\Task2.pdb
+D:\GitKraken\hekeemCastle\Coding\Class.Constructor\Task2\obj\Debug\netcoreapp3.1\Task2.genruntimeconfig.cache
