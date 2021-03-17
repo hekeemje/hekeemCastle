@@ -1,0 +1,13 @@
+D:\GitKraken\hekeemCastle\Coding\HomeWork4\Task5\bin\Debug\netcoreapp3.1\Task5.exe
+D:\GitKraken\hekeemCastle\Coding\HomeWork4\Task5\bin\Debug\netcoreapp3.1\Task5.deps.json
+D:\GitKraken\hekeemCastle\Coding\HomeWork4\Task5\bin\Debug\netcoreapp3.1\Task5.runtimeconfig.json
+D:\GitKraken\hekeemCastle\Coding\HomeWork4\Task5\bin\Debug\netcoreapp3.1\Task5.runtimeconfig.dev.json
+D:\GitKraken\hekeemCastle\Coding\HomeWork4\Task5\bin\Debug\netcoreapp3.1\Task5.dll
+D:\GitKraken\hekeemCastle\Coding\HomeWork4\Task5\bin\Debug\netcoreapp3.1\Task5.pdb
+D:\GitKraken\hekeemCastle\Coding\HomeWork4\Task5\obj\Debug\netcoreapp3.1\Task5.AssemblyInfoInputs.cache
+D:\GitKraken\hekeemCastle\Coding\HomeWork4\Task5\obj\Debug\netcoreapp3.1\Task5.AssemblyInfo.cs
+D:\GitKraken\hekeemCastle\Coding\HomeWork4\Task5\obj\Debug\netcoreapp3.1\Task5.csproj.CoreCompileInputs.cache
+D:\GitKraken\hekeemCastle\Coding\HomeWork4\Task5\obj\Debug\netcoreapp3.1\Task5.dll
+D:\GitKraken\hekeemCastle\Coding\HomeWork4\Task5\obj\Debug\netcoreapp3.1\Task5.pdb
+D:\GitKraken\hekeemCastle\Coding\HomeWork4\Task5\obj\Debug\netcoreapp3.1\Task5.genruntimeconfig.cache
+D:\GitKraken\hekeemCastle\Coding\HomeWork4\Task5\obj\Debug\netcoreapp3.1\Task5.csprojAssemblyReference.cache

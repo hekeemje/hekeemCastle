@@ -18,7 +18,6 @@ namespace Task_1
                 user1.Surname = Console.ReadLine();
                 Console.WriteLine("Age : ");
                 user1.Age = int.Parse(Console.ReadLine());
-                user1.AccCreated = DateTime.Now;
 
                 user1.Print();
             }
