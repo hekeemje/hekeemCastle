@@ -1,0 +1,16 @@
+D:\GitKraken\hekeemCastle\Coding\HomeWork5\Task4\bin\Debug\net5.0\Task4.exe
+D:\GitKraken\hekeemCastle\Coding\HomeWork5\Task4\bin\Debug\net5.0\Task4.deps.json
+D:\GitKraken\hekeemCastle\Coding\HomeWork5\Task4\bin\Debug\net5.0\Task4.runtimeconfig.json
+D:\GitKraken\hekeemCastle\Coding\HomeWork5\Task4\bin\Debug\net5.0\Task4.runtimeconfig.dev.json
+D:\GitKraken\hekeemCastle\Coding\HomeWork5\Task4\bin\Debug\net5.0\Task4.dll
+D:\GitKraken\hekeemCastle\Coding\HomeWork5\Task4\bin\Debug\net5.0\ref\Task4.dll
+D:\GitKraken\hekeemCastle\Coding\HomeWork5\Task4\bin\Debug\net5.0\Task4.pdb
+D:\GitKraken\hekeemCastle\Coding\HomeWork5\Task4\obj\Debug\net5.0\Task4.csprojAssemblyReference.cache
+D:\GitKraken\hekeemCastle\Coding\HomeWork5\Task4\obj\Debug\net5.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitKraken\hekeemCastle\Coding\HomeWork5\Task4\obj\Debug\net5.0\Task4.AssemblyInfoInputs.cache
+D:\GitKraken\hekeemCastle\Coding\HomeWork5\Task4\obj\Debug\net5.0\Task4.AssemblyInfo.cs
+D:\GitKraken\hekeemCastle\Coding\HomeWork5\Task4\obj\Debug\net5.0\Task4.csproj.CoreCompileInputs.cache
+D:\GitKraken\hekeemCastle\Coding\HomeWork5\Task4\obj\Debug\net5.0\Task4.dll
+D:\GitKraken\hekeemCastle\Coding\HomeWork5\Task4\obj\Debug\net5.0\ref\Task4.dll
+D:\GitKraken\hekeemCastle\Coding\HomeWork5\Task4\obj\Debug\net5.0\Task4.pdb
+D:\GitKraken\hekeemCastle\Coding\HomeWork5\Task4\obj\Debug\net5.0\Task4.genruntimeconfig.cache
