@@ -16,7 +16,7 @@ namespace Task4
 
         public virtual void SaveDocument()
         {
-            Console.WriteLine("Сохранение документа доступно в версии Про.");
+            Console.WriteLine("Сохранение документа доступно в версии Эксперт.");
         }
     }
 
@@ -34,7 +34,7 @@ namespace Task4
 
         public override void SaveDocument()
         {
-            Console.WriteLine("Сохранение документа доступно в версии Про.");
+            Console.WriteLine("Документ сохранен в старом формате, сохранение в остальных форматах доступно в версии Эксперт");
         }
 
     }

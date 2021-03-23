@@ -17,14 +17,17 @@ namespace Task4
 
                 if (check == keyForPro)
                 {
+                    Console.WriteLine("Получен доступ к версии Pro.");
                     user1 = new ProDocumentWorker();
                 }
                 else if (check == keyForExp)
                 {
+                    Console.WriteLine("Получен доступ к версии Expert");
                     user1 = new ExpertDocumentWorker();
                 }
                 else
                 {
+                    Console.WriteLine("Получен доступ к базовой версии.");
                     user1 = new DocumentWorker();
                 }
                 Console.WriteLine();

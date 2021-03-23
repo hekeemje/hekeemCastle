@@ -4,60 +4,30 @@ namespace Task2
 {
     class ClassRoom
     {
-        public ClassRoom()
-        { 
-        
+        Pupil pupil1;
+        Pupil pupil2;
+        Pupil pupil3;
+        Pupil pupil4;
+
+        public ClassRoom(Pupil pupil1, Pupil pupil2, Pupil pupil3, Pupil pupil4)
+        {
+            this.pupil1 = pupil1;
+            this.pupil2 = pupil2;
+            this.pupil3 = pupil3;
+            this.pupil4 = pupil4;
         }
+
+
     }
 
     class Pupil : ClassRoom
     {
-        public string Name { get; set; }
-        public Pupil(string name)
+        private string name { get { return name; } set { name = value; } }
+
+        public Pupil(Pupil pupil1, Pupil pupil2, Pupil pupil3, Pupil pupil4, string name)
+            :  base(pupil1, pupil2, pupil3, pupil4)
         {
-            Name = name;
-        }
-
-        public virtual void Study()
-        { }
-
-        public virtual void Read()
-        { }
-
-        public virtual void Write()
-        { }
-
-        public virtual void Relax()
-        { }
-
-        class ExcelentPupil : Pupil
-        {
-            public ExcelentPupil(string name)
-                :base(name)
-            { 
-            
-            }
-
-
-            
-        }
-
-        class GoodPupil : Pupil
-        {
-            public GoodPupil(string name)
-                : base(name)
-            {
-
-            }
-        }
-
-        class BadPupil : Pupil
-        {
-            public BadPupil(string name)
-                : base(name)
-            {
-
-            }
+            this.name = name;
         }
     }
 
@@ -66,6 +36,9 @@ namespace Task2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Pupil pupil1 = new Pupil()
+
+            ClassRoom class1 = new ClassRoom(pupil1, pupil2, pupil3, pupil4);
         }
     }
 }

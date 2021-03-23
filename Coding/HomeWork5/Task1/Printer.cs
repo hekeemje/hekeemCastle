@@ -21,7 +21,7 @@ namespace Task1
         }
     }
 
-    class Position : Printer
+    class Position : Company
     {
         public Position()
         {
@@ -29,7 +29,7 @@ namespace Task1
         }
     }
 
-    class NamePerson : Printer
+    class NamePerson : Position
     {
         public NamePerson()
         {

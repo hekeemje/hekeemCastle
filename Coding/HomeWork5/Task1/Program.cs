@@ -6,11 +6,11 @@ namespace Task1
     {
         static void Main(string[] args)
         {
-            Printer name = new NamePerson();
+            NamePerson name = new NamePerson();
             name.Print("Elon");
-            Printer company = new Company();
+            var company = (Company)name;
             company.Print("Tesla, SpaceX");
-            Printer position = new Position();
+            var position = (Position)company;
             position.Print("Head");
             Console.ForegroundColor = ConsoleColor.Gray;
         }
