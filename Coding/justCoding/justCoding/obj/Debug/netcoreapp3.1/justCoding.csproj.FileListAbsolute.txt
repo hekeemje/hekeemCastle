@@ -1,0 +1,13 @@
+D:\GitKraken\hekeemCastle\Coding\justCoding\justCoding\bin\Debug\netcoreapp3.1\justCoding.exe
+D:\GitKraken\hekeemCastle\Coding\justCoding\justCoding\bin\Debug\netcoreapp3.1\justCoding.deps.json
+D:\GitKraken\hekeemCastle\Coding\justCoding\justCoding\bin\Debug\netcoreapp3.1\justCoding.runtimeconfig.json
+D:\GitKraken\hekeemCastle\Coding\justCoding\justCoding\bin\Debug\netcoreapp3.1\justCoding.runtimeconfig.dev.json
+D:\GitKraken\hekeemCastle\Coding\justCoding\justCoding\bin\Debug\netcoreapp3.1\justCoding.dll
+D:\GitKraken\hekeemCastle\Coding\justCoding\justCoding\bin\Debug\netcoreapp3.1\justCoding.pdb
+D:\GitKraken\hekeemCastle\Coding\justCoding\justCoding\obj\Debug\netcoreapp3.1\justCoding.csprojAssemblyReference.cache
+D:\GitKraken\hekeemCastle\Coding\justCoding\justCoding\obj\Debug\netcoreapp3.1\justCoding.AssemblyInfoInputs.cache
+D:\GitKraken\hekeemCastle\Coding\justCoding\justCoding\obj\Debug\netcoreapp3.1\justCoding.AssemblyInfo.cs
+D:\GitKraken\hekeemCastle\Coding\justCoding\justCoding\obj\Debug\netcoreapp3.1\justCoding.csproj.CoreCompileInputs.cache
+D:\GitKraken\hekeemCastle\Coding\justCoding\justCoding\obj\Debug\netcoreapp3.1\justCoding.dll
+D:\GitKraken\hekeemCastle\Coding\justCoding\justCoding\obj\Debug\netcoreapp3.1\justCoding.pdb
+D:\GitKraken\hekeemCastle\Coding\justCoding\justCoding\obj\Debug\netcoreapp3.1\justCoding.genruntimeconfig.cache
