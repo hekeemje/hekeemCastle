@@ -1,32 +1,44 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace justCoding
 {
-    abstract class Person
+    public interface IStrategy
     {
-        private int name;
-
-        public int Name { get { return name; }
-            set { name = value; } }
+        void Algorithm();
     }
 
-    class Worker : Person
+    public class ConcreteStrategy1 : IStrategy
     {
-        private int position;
+        public void Algorithm()
+        { }
+    }
 
-        public int Position
+    public class ConcreteStrategy2 : IStrategy
+    {
+        public void Algorithm()
+        { }
+    }
+
+    public class Context
+    {
+        public IStrategy ContextStrategy { get; set; }
+
+        public Context(IStrategy _strategy)
         {
-            get { return position; }
-            set { position = value; }
+            ContextStrategy = _strategy;
+        }
+
+        public void ExecuteAlgorithm()
+        {
+            ContextStrategy.Algorithm();
         }
     }
-
     class Program
     {
         static void Main(string[] args)
         {
-            
-
+           
         }
     }
 }
