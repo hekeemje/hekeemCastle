@@ -1,0 +1,19 @@
+SELECT maker, model, type
+FROM Product
+WHERE NOT type='PC' OR type='Printer'; // выведёт всё кроме PC
+
+SELECT maker, model, type
+FROM Product
+WHERE NOT (type='PC' OR type='Printer'); // выведёт всё кроме PC и принтеров
+
+SELECT maker
+FROM Product
+WHERE NOT (type='PC' AND maker 'A'); // не выведет PC с мейкером A
+
+SELECT maker, model, type 
+FROM Product
+WHERE type='PC' AND maker='A' OR maker'B' // выведет PC с мейкером А И так же просто мейкеров b
+
+SELECT maker, model, type 
+FROM Product
+WHERE type='PC' AND (maker='A' OR maker'B') // выведет PC с мейкером А И так же просто мейкеров b
