@@ -1,0 +1,18 @@
+create schema library;
+use library;
+
+insert into books (Title, Author, PublishYear, PageCount, Price)
+values ('Преступление и наказание' , 'Достоевский Ф.М.' , '1880' , 789, 478);
+
+create table Publishers(
+id int primary key auto_increment,
+Title varchar(45) not null,
+PublisherDescription varchar(255)
+);
+
+alter table Publishers
+add column City varchar(45) after Title;
+
+insert into publishers (Title,City) values ('Днепр - Паблиш = Хаус' , 'Днепр');
+insert into publishers (Title,City) values ('Киев - Паблиш = Хаус' , 'Киев');
+insert into publishers (Title,City) values ('Одесса - Паблиш = Хаус' , 'Одесса');

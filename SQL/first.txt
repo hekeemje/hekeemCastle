@@ -83,3 +83,26 @@ WHERE city LIKE 'B________'; // выведет города которые на�
 SELECT *
 FROM payment
 WHERE amount IS NULL;
+
+SELECT count(category_id) as Category_counts
+FROM sakila.film_category
+WHERE category_id=11; // выведет сколько category id со значением 11
+
+SELECT COUNT(DISTINCT model) AS Qty
+FROM sakila.pc
+WHERE model IN (SELECT model
+FROM sakila.product
+WHERE maker = 'A'
+); // DISTINCT - выводит уникальное
+
+SELECT model, COUNT(model) AS Qty_model, 
+AVG(price) AS Avg_price
+FROM PC
+GROUP BY model; // уникально выведет все модели и для 
+//каждой модели посчитает какое их количество и средняя цена у них
+
+SELECT model, COUNT(model) AS Qty_model, 
+AVG(price) AS Avg_price
+FROM sakila.pc
+GROUP BY model
+HAVING AVG(price) < 800; // выведет только там где avg price меньше чем 800
