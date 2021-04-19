@@ -1,44 +1,38 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace justCoding
 {
-    public interface IStrategy
-    {
-        void Algorithm();
-    }
-
-    public class ConcreteStrategy1 : IStrategy
-    {
-        public void Algorithm()
-        { }
-    }
-
-    public class ConcreteStrategy2 : IStrategy
-    {
-        public void Algorithm()
-        { }
-    }
-
-    public class Context
-    {
-        public IStrategy ContextStrategy { get; set; }
-
-        public Context(IStrategy _strategy)
-        {
-            ContextStrategy = _strategy;
-        }
-
-        public void ExecuteAlgorithm()
-        {
-            ContextStrategy.Algorithm();
-        }
-    }
     class Program
     {
         static void Main(string[] args)
         {
-           
+            char[] alphabet = {'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j',
+    'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v',
+    'w', 'x', 'y', 'z'};
+
+            string ss = "The sunset sets at twelve o' clock.";
+            ss = ss.ToLower();
+
+            string myres = "";
+
+            for (int i = 0; i < ss.Length; i++)
+            {
+                for (int j = 0; j  < alphabet.Length; j++)
+                {
+                    if (ss[i] == alphabet[j])
+                    {
+                        myres += j + 1;
+                            myres += " ";
+                    }
+                }
+            }
+
+
+            Console.WriteLine(myres.Length);
+            Console.WriteLine(myres);
+        
         }
     }
 }
