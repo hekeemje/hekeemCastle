@@ -4,35 +4,26 @@ using System.Linq;
 
 namespace justCoding
 {
+    class Util
+    {
+        public void SwapGenericObjects<T, U>(ref T a, ref U b)
+        {
+            var temp = a;
+            a = (T)(object)b;
+            b = (U)(object)temp;
+        }
+    }
     class Program
     {
         static void Main(string[] args)
         {
-            char[] alphabet = {'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j',
-    'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v',
-    'w', 'x', 'y', 'z'};
+            Util util = new Util();
 
-            string ss = "The sunset sets at twelve o' clock.";
-            ss = ss.ToLower();
+            int a = 2; int b = 5;
 
-            string myres = "";
-
-            for (int i = 0; i < ss.Length; i++)
-            {
-                for (int j = 0; j  < alphabet.Length; j++)
-                {
-                    if (ss[i] == alphabet[j])
-                    {
-                        myres += j + 1;
-                            myres += " ";
-                    }
-                }
-            }
-
-
-            Console.WriteLine(myres.Length);
-            Console.WriteLine(myres);
-        
+            Console.WriteLine($"Before : a = {a} and b = {b}");
+            util.SwapGenericObjects<int, int>(ref a, ref b);
+            Console.WriteLine($"After : a = {a} and b = {b}");
         }
     }
 }
