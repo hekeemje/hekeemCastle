@@ -8,10 +8,8 @@ namespace justCoding
     {
         static void Main(string[] args)
         {
-            string s = "Kek lol cheburek";
-            char[] arr = s.ToCharArray();
-            Array.Reverse(arr);
-            Console.WriteLine(arr);
+            Console.WriteLine(9%2);
         }
+
     }
 }
