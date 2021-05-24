@@ -1,44 +1,30 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace justCoding
 {
-    public interface IStrategy
-    {
-        void Algorithm();
-    }
 
-    public class ConcreteStrategy1 : IStrategy
-    {
-        public void Algorithm()
-        { }
-    }
-
-    public class ConcreteStrategy2 : IStrategy
-    {
-        public void Algorithm()
-        { }
-    }
-
-    public class Context
-    {
-        public IStrategy ContextStrategy { get; set; }
-
-        public Context(IStrategy _strategy)
-        {
-            ContextStrategy = _strategy;
-        }
-
-        public void ExecuteAlgorithm()
-        {
-            ContextStrategy.Algorithm();
-        }
-    }
     class Program
     {
+        static void F4(Dictionary<int, string> keyValuePairs)
+        { 
+            foreach (var item in keyValuePairs)
+                Console.WriteLine($"{item.Key} : {item.Value}");
+        }
+
+        public delegate void MyDicDel(Dictionary<int, string> keks);
+
         static void Main(string[] args)
         {
-           
+            Dictionary<int, string> kk1 = new Dictionary<int, string>();
+            kk1.Add(1, "one");
+            kk1.Add(2, "two");
+            kk1.Add(3, "three");
+
+            MyDicDel myDicDel = F4;
+            myDicDel.Invoke(kk1);
         }
+
     }
 }

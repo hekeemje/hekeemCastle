@@ -1,0 +1,41 @@
+1
+SELECT item_id, COUNT(*) AS item_count
+FROM `super_market`.`sales`
+GROUP BY item_id;
+
+2
+CREATE VIEW item_count AS 
+SELECT item_id, COUNT(*) AS item_count
+FROM `super_market`.`sales`
+GROUP BY item_id;
+
+3
+SELECT *
+FROM item_count;
+
+4
+CREATE VIEW item_count_5 AS 
+SELECT item_id, COUNT(*) AS item_count
+FROM `super_market`.`sales`
+GROUP BY item_id
+HAVING COUNT(*) > 5;
+4,1
+SELECT *
+FROM item_count;
+
+5
+DROP VIEW item_count;
+
+6
+DELETE 
+FROM `super_market`.`sales`
+WHERE sales_id = 2;
+
+7
+TRUNCATE TABLE `super_market`.`employees`;
+
+8
+DROP TABLE `super_market`.`employees`;
+
+9
+DROP DATABASE super_market;

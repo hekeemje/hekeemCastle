@@ -1,0 +1,108 @@
+SELECT maker, model, type
+FROM Product
+WHERE NOT type='PC' OR type='Printer'; // выведёт всё кроме PC
+
+SELECT maker, model, type
+FROM Product
+WHERE NOT (type='PC' OR type='Printer'); // выведёт всё кроме PC и принтеров
+
+SELECT maker
+FROM Product
+WHERE NOT (type='PC' AND maker 'A'); // не выведет PC с мейкером A
+
+SELECT maker, model, type 
+FROM Product
+WHERE type='PC' AND maker='A' OR maker'B' // выведет PC с мейкером А И так же просто мейкеров b
+
+SELECT maker, model, type 
+FROM Product
+WHERE type='PC' AND (maker='A' OR maker'B') // выведет PC с мейкером А И так же просто мейкеров b
+
+SELECT * FROM product 
+WHERE maker = "A' AND type = 'pc';
+
+SELECT * FROM product
+WHERE maker = 'A'
+UNION 
+SELECT * FROM product 
+WHERE maker = 'B'; // выведет табличку где мейкеры А и B
+
+SELECT * FROM product
+WHERE (maker = 'A' OR maker = 'B') AND type = 'pc'; // выведет PC с мейкерами А и Б
+
+SELECT * 
+FROM sakila.PC
+WHERE speed >= 500 AND 
+price < 800;
+
+SELECT * 
+FROM printer
+WHERE NOT (type = 'matrix') AND
+price < 300;
+
+SELECT mode, speed
+FROM PC
+WHERE price BETWEEN 400 and 500;
+
+SELECT model, speed, hd
+FROM PC
+WHERE hd IN (10,20); // выведет модель , частоту проц и жесткий диск которые 10,20 ГБайт
+
+SELECT model, speed, hd
+from PC
+WHERE hd IN (10,20) AND
+model IN (SELECT model
+FROM product
+WHERE maker = 'A');
+
+SELECT ram AS Mb, hd Gb
+FROM PC
+where cd = '24x'; // переименует таблицу ram в Mb и таблицу hd в Gb
+
+SELECT ram*1024 AS kb, hd Gb
+FROM PC 
+where cd = '24x'; // переведёт RAM значения в Килабайты ( умножив на 1024 ) 
+и так же переименует таблицу
+
+SELECT ram, 'Mb' AS ram_units, hd, 'GB' AS hd_units
+FROM PC
+WHERE cd = '24x'; // выведет табличку ram, всё что имеет "Mb' выведет в таблице ram_units...
+
+SELECT 'CHECK' "LOL" // выведет таблицу Check с итемом CheckLol
+
+SELECT *
+FROM sakila.city
+WHERE city NOT LIKE '%go' AND 
+city LIKE '%o'; // выведет города которые не заканчиваются на "..go" 
+и + города которые заканчиваются на "..o"
+
+SELECT *
+FROM sakila.city
+WHERE city LIKE 'B________'; // выведет города которые начинаются с буквы B и имеют 7 букв затем
+
+SELECT *
+FROM payment
+WHERE amount IS NULL;
+
+SELECT count(category_id) as Category_counts
+FROM sakila.film_category
+WHERE category_id=11; // выведет сколько category id со значением 11
+
+SELECT COUNT(DISTINCT model) AS Qty
+FROM sakila.pc
+WHERE model IN (SELECT model
+FROM sakila.product
+WHERE maker = 'A'
+); // DISTINCT - выводит уникальное
+
+SELECT model, COUNT(model) AS Qty_model, 
+AVG(price) AS Avg_price
+FROM PC
+GROUP BY model; // уникально выведет все модели и для 
+//каждой модели посчитает какое их количество и средняя цена у них
+
+SELECT model, COUNT(model) AS Qty_model, 
+AVG(price) AS Avg_price
+FROM sakila.pc
+GROUP BY model
+HAVING AVG(price) < 800; // выведет только там где avg price меньше чем 800

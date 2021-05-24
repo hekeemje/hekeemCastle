@@ -1,0 +1,45 @@
+CREATE DATABASE super_market;
+
+CREATE TABLE `super_market`.`employees`
+(
+	employee_id INT(11) PRIMARY KEY,
+    name VARCHAR(200),
+    hourly_pay DECIMAL(10,2),
+    position ENUM('Manager', 'Helper', 'Cashir', 'Cleaner') NOT NULL,
+    employee_contact BIGINT(10) NOT NULL   
+);
+
+
+INSERT INTO  `super_market`.`employees`
+(
+`employee_id`, `name`, `hourly_pay`, `position`, `employee_contact`
+)
+VALUES
+(
+1, 'Serg Artem', 9.00, 'Manager', 32255547
+);
+
+INSERT INTO  `super_market`.`employees`( `name`, `hourly_pay`, `position`, `employee_contact`)
+VALUES( 2, 'Bogdanov Bogdan', 9.20, 'Helper', 7876755);
+INSERT INTO  `super_market`.`employees`( `name`, `hourly_pay`, `position`, `employee_contact`)
+VALUES( 3, 'Ninova Nina', 4.00, 'Cashir', 222556787);
+INSERT INTO  `super_market`.`employees`( `name`, `hourly_pay`, `position`, `employee_contact`)
+VALUES( 4, 'Romov Roman', 10.00, 'Cleaner', 09744334);
+
+SELECT *
+FROM employees
+LIMIT 2;
+
+SELECT *
+FROM employees
+WHERE hourly_pay > 9;
+
+UPDATE `super_market`.`employees`
+SET hourly_pay = 10.00
+WHERE employee_id = 1;
+
+ALTER TABLE `super_market`.`employees`
+MODIFY employee_id INT(11) NOT NULL auto_increment;
+
+INSERT INTO  `super_market`.`employees`
+SET	`name` = 'Karlov Karl', `hourly_pay` = 12.00, `position` = 'Manager', `employee_contact` = 475541234;

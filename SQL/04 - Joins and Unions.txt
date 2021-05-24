@@ -1,0 +1,139 @@
+1
+CREATE TABLE `super_market`.`items`
+ (
+
+  item_id INT(11) PRIMARY KEY AUTO_INCREMENT,
+  item_name VARCHAR(200) NOT NULL,
+  weight DECIMAL(10, 2) NOT NULL,
+  brand VARCHAR(200) NOT NULL,
+  price DECIMAL(10, 2) NOT NULL
+);
+
+2
+CREATE TABLE `super_market`.`sales`
+(
+	sales_id INT(11) PRIMARY KEY AUTO_INCREMENT,
+    item_id INT(11) NOT NULL,
+    emploee_id INT(11) NOT NULL
+);
+
+3
+INSERT INTO `super_market`.`items` ( `item_name`, `weight`, `brand`, `price`) VALUES('milk', 2, 'Nestle', 2.00);
+INSERT INTO `super_market`.`items` ( `item_name`, `weight`, `brand`, `price`) VALUES('Cheese', 0.5, 'Amul', 6.00);
+INSERT INTO `super_market`.`items` ( `item_name`, `weight`, `brand`, `price`) VALUES('Bettery', 0.1, 'EverReady', 1.00);
+INSERT INTO `super_market`.`items` ( `item_name`, `weight`, `brand`, `price`) VALUES('Chips', 0.5, 'Lays', 3.00);
+INSERT INTO `super_market`.`items` ( `item_name`, `weight`, `brand`, `price`) VALUES('Coke', 0.5, 'Coca Cola', 2.50);
+INSERT INTO `super_market`.`items` ( `item_name`, `weight`, `brand`, `price`) VALUES('Water', 1.0, 'AquaFine', 3.00);
+INSERT INTO `super_market`.`items` ( `item_name`, `weight`, `brand`, `price`) VALUES('Heir Gel', 0.5, 'Axe', 9.00);
+INSERT INTO `super_market`.`items` ( `item_name`, `weight`, `brand`, `price`) VALUES('Ear Phones', 0.2, 'Boss', 125.00);
+INSERT INTO `super_market`.`items` ( `item_name`, `weight`, `brand`, `price`) VALUES('Cards', 0.5, 'PlayEm', 10.00);
+INSERT INTO `super_market`.`items` ( `item_name`, `weight`, `brand`, `price`) VALUES('Deo', 0.2, 'Fogg', 5.00);
+INSERT INTO `super_market`.`items` ( `item_name`, `weight`, `brand`, `price`) VALUES('Liquid Soup', 0.3, 'Lux', 4.00);
+INSERT INTO `super_market`.`items` ( `item_name`, `weight`, `brand`, `price`) VALUES('Shaving Gel', 1.0, 'Gillette', 15.00);
+INSERT INTO `super_market`.`items` ( `item_name`, `weight`, `brand`, `price`) VALUES('Hoodie', 5.0, 'North Face', 200.00);
+INSERT INTO `super_market`.`items` ( `item_name`, `weight`, `brand`, `price`) VALUES('Cap', 0.5, 'RF', 50.00);
+INSERT INTO `super_market`.`items` ( `item_name`, `weight`, `brand`, `price`) VALUES('Television', 25.0, 'Sony', 1450.00);
+INSERT INTO `super_market`.`items` ( `item_name`, `weight`, `brand`, `price`) VALUES('Laptop', 3.50, 'Lenovo', 1990.00);
+INSERT INTO `super_market`.`items` ( `item_name`, `weight`, `brand`, `price`) VALUES('Phone', 1.5, 'LG', 400.00);
+
+4
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(2, 1);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(14, 3);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(17, 7);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(12, 10);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(11, 3);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(2, 3);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(14, 4);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(14, 5);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(17, 4);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(5, 7);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(14, 9);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(14, 1);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(3, 17);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(2, 1);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(3, 1);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(14, 3);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(17, 7);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(12, 10);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(11, 3);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(2, 3);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(15, 4);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(16, 5);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(17, 4);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(1, 7);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(2, 9);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(3, 1);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(4, 17);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(5, 1);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(2, 1);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(14, 2);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(17, 3);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(12, 4);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(11, 5);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(2, 6);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(14, 7);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(14, 8);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(17, 9);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(5, 10);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(14, 11);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(14, 12);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(3, 13);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(2, 14);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(3, 15);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(14, 16);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(17, 17);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(12, 1);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(11, 2);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(2, 3);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(15, 4);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(16, 5);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(17, 6);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(1, 7);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(2, 8);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(3, 9);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(4, 10);
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(5, 11);
+
+5
+ALTER TABLE `super_market`.`sales`
+	ADD FOREIGN KEY (item_id) REFERENCES items (item_id);
+5.1
+ALTER TABLE `super_market`.`sales`
+	ADD FOREIGN KEY (emploee_id) REFERENCES employees (employee_id);
+5.2
+INSERT INTO `super_market`.`sales` ( `emploee_id`, `item_id` ) VALUES(5, 1);
+
+6
+INSERT INTO `super_market`.`items` ( `item_name`, `weight`, `brand`, `price`) VALUES('Candy', 0.5, 'M&M', 2.00);
+    
+7 
+SELECT * 
+FROM `super_market`.`items`
+LEFT JOIN `super_market`.`sales` ON items.item_id = sales.item_id;
+7,1
+SELECT * 
+FROM `super_market`.`items`
+RIGHT JOIN `super_market`.`sales` ON items.item_id = sales.item_id; 
+
+8
+SELECT * 
+FROM `super_market`.`items`
+INNER JOIN `super_market`.`sales` ON items.item_id = sales.item_id;
+
+9
+SELECT sales_id, item_id, emploee_id
+FROM `super_market`.`sales`
+WHERE item_id = 1
+UNION
+SELECT sales_id, item_id, emploee_id
+FROM `super_market`.`sales`
+WHERE item_id = 10;
+
+10
+SELECT *
+FROM `super_market`.`sales`
+WHERE item_id IN(
+	SELECT item_id
+    FROM `super_market`.`items`
+    WHERE item_name = 'Cheese'
+);
