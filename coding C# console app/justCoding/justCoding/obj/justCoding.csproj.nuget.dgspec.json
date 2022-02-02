@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitKraken\\hekeemCastle\\Coding\\justCoding\\justCoding\\justCoding.csproj": {}
+    "D:\\GitKraken\\hekeemCastle\\coding C# console app\\justCoding\\justCoding\\justCoding.csproj": {}
   },
   "projects": {
-    "D:\\GitKraken\\hekeemCastle\\Coding\\justCoding\\justCoding\\justCoding.csproj": {
+    "D:\\GitKraken\\hekeemCastle\\coding C# console app\\justCoding\\justCoding\\justCoding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitKraken\\hekeemCastle\\Coding\\justCoding\\justCoding\\justCoding.csproj",
+        "projectUniqueName": "D:\\GitKraken\\hekeemCastle\\coding C# console app\\justCoding\\justCoding\\justCoding.csproj",
         "projectName": "justCoding",
-        "projectPath": "D:\\GitKraken\\hekeemCastle\\Coding\\justCoding\\justCoding\\justCoding.csproj",
+        "projectPath": "D:\\GitKraken\\hekeemCastle\\coding C# console app\\justCoding\\justCoding\\justCoding.csproj",
         "packagesPath": "C:\\Users\\hekeemje\\.nuget\\packages\\",
-        "outputPath": "D:\\GitKraken\\hekeemCastle\\Coding\\justCoding\\justCoding\\obj\\",
+        "outputPath": "D:\\GitKraken\\hekeemCastle\\coding C# console app\\justCoding\\justCoding\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hekeemje\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }
