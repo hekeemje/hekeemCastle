@@ -1,0 +1,16 @@
+D:\GitKraken\hekeemCastle\oop softserve\HomeWork9b\HomeWork9b\bin\Debug\net5.0\HomeWork9b.exe
+D:\GitKraken\hekeemCastle\oop softserve\HomeWork9b\HomeWork9b\bin\Debug\net5.0\HomeWork9b.deps.json
+D:\GitKraken\hekeemCastle\oop softserve\HomeWork9b\HomeWork9b\bin\Debug\net5.0\HomeWork9b.runtimeconfig.json
+D:\GitKraken\hekeemCastle\oop softserve\HomeWork9b\HomeWork9b\bin\Debug\net5.0\HomeWork9b.runtimeconfig.dev.json
+D:\GitKraken\hekeemCastle\oop softserve\HomeWork9b\HomeWork9b\bin\Debug\net5.0\HomeWork9b.dll
+D:\GitKraken\hekeemCastle\oop softserve\HomeWork9b\HomeWork9b\bin\Debug\net5.0\ref\HomeWork9b.dll
+D:\GitKraken\hekeemCastle\oop softserve\HomeWork9b\HomeWork9b\bin\Debug\net5.0\HomeWork9b.pdb
+D:\GitKraken\hekeemCastle\oop softserve\HomeWork9b\HomeWork9b\obj\Debug\net5.0\HomeWork9b.csproj.AssemblyReference.cache
+D:\GitKraken\hekeemCastle\oop softserve\HomeWork9b\HomeWork9b\obj\Debug\net5.0\HomeWork9b.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitKraken\hekeemCastle\oop softserve\HomeWork9b\HomeWork9b\obj\Debug\net5.0\HomeWork9b.AssemblyInfoInputs.cache
+D:\GitKraken\hekeemCastle\oop softserve\HomeWork9b\HomeWork9b\obj\Debug\net5.0\HomeWork9b.AssemblyInfo.cs
+D:\GitKraken\hekeemCastle\oop softserve\HomeWork9b\HomeWork9b\obj\Debug\net5.0\HomeWork9b.csproj.CoreCompileInputs.cache
+D:\GitKraken\hekeemCastle\oop softserve\HomeWork9b\HomeWork9b\obj\Debug\net5.0\HomeWork9b.dll
+D:\GitKraken\hekeemCastle\oop softserve\HomeWork9b\HomeWork9b\obj\Debug\net5.0\ref\HomeWork9b.dll
+D:\GitKraken\hekeemCastle\oop softserve\HomeWork9b\HomeWork9b\obj\Debug\net5.0\HomeWork9b.pdb
+D:\GitKraken\hekeemCastle\oop softserve\HomeWork9b\HomeWork9b\obj\Debug\net5.0\HomeWork9b.genruntimeconfig.cache

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitKraken\\hekeemCastle\\coding C# console app\\justCoding\\justCoding\\justCoding.csproj",
-      "projectName": "justCoding",
-      "projectPath": "D:\\GitKraken\\hekeemCastle\\coding C# console app\\justCoding\\justCoding\\justCoding.csproj",
+      "projectUniqueName": "D:\\GitKraken\\hekeemCastle\\oop softserve\\HomeWork9b\\HomeWork9b\\HomeWork9b.csproj",
+      "projectName": "HomeWork9b",
+      "projectPath": "D:\\GitKraken\\hekeemCastle\\oop softserve\\HomeWork9b\\HomeWork9b\\HomeWork9b.csproj",
       "packagesPath": "C:\\Users\\hekeemje\\.nuget\\packages\\",
-      "outputPath": "D:\\GitKraken\\hekeemCastle\\coding C# console app\\justCoding\\justCoding\\obj\\",
+      "outputPath": "D:\\GitKraken\\hekeemCastle\\oop softserve\\HomeWork9b\\HomeWork9b\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hekeemje\\AppData\\Roaming\\NuGet\\NuGet.Config",
